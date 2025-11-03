@@ -1,4 +1,31 @@
 <!-- Animated Header -->
+
+
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Lanka%20Naga%20Pranav%20Chowdary&fontAlign=50&fontAlignY=35&fontSize=45&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Data%20Science%20Student&descAlignY=55&animation=fadeIn" />
+
+<h2 align="center">✨ Crafting Intelligent, Data-Driven Web Experiences ✨</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+AI+and+Data+Science+Student;Building+Modern+Web+Apps+with+React+and+Node.js;Exploring+Machine+Learning+and+Data+Visualization;Transforming+Ideas+into+Code+That+Matters" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+```yaml
+name: "Lanka Naga Pranav Chowdary"
+location: "Vijayawada, Andhra Pradesh, India"
+education:
+  - "B.Tech in Artificial Intelligence and Data Science (CGPA: 9.77)"
+  - "Hindustan Institute of Technology and Science, Chennai (2023-2027)"
+certification: "Industry Ready Certification in Full Stack Development – Nxtwave"
+interests:
+  - "Machine Learning & Data Visualization"
+  - "Full Stack Web Development"
+  - "Cloud and AI Applications"
+goal: "To design intelligent systems that blend data, usability, and creativity"
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Lanka%20Naga%20Pranav%20Chowdary&fontAlign=50&fontAlignY=35&fontSize=45&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Data%20Science%20Student&descAlignY=55&animation=fadeIn" />
 
 <h2 align="center">✨ Crafting Intelligent, Data-Driven Web Experiences ✨</h2>
