@@ -1,5 +1,6 @@
 <!-- Animated Header -->
-![Lanka Naga Pranav Chowdary Banner](https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:9333EA&height=220&section=header&text=Lanka%20Naga%20Pranav%20Chowdary&fontSize=36&fontAlign=50&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Data%20Science%20Student&descAlign=50&descAlignY=65&fontColor=ffffff&animation=fadeIn)
+![Lanka Naga Pranav Chowdary Banner](https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:9333EA&height=220&section=header&text=Lanka%20Naga%20Pranav%20Chowdary&fontSize=36&fontAlign=50&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI%20and%20Data%20Science%20Student&descAlign=50&descAlignY=70&fontColor=ffffff&animation=fadeIn)
+
 
 
 
