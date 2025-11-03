@@ -1,6 +1,7 @@
 <!-- Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:9333EA&height=200&text=Lanka%20Naga%20Pranav%20Chowdary&fontAlign=50&fontAlignY=35&fontSize=45&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Data%20Science%20Student&descAlignY=55&animation=fadeIn" />
 
+
 <h2 align="center">✨ Crafting Intelligent, Data-Driven Web Experiences ✨</h2>
 
 <p align="center">
